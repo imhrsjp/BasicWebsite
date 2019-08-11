@@ -1,0 +1,15 @@
+{
+    "params":
+    {
+      "local_server": "True",
+      "local_uri": "mysql://root:@localhost/hydra",
+      "prod_uri": "mysql://root:@localhost/hydra",
+      "fb_url": "https://www.facebook.com/profile.php?id=100007262283017",
+      "tw_url": "https://www.twitter.com/imhrsjp",
+      "gh_url": "https://www.github.com/imhrsjp",
+      "mail_user": "hrspatel1199@gmail.com",
+      "mail_pass": "harsh@..123",
+      "username": "hjpatel_111",
+      "password": "harsh@123"
+    }
+}
